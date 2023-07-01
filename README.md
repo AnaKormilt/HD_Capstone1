@@ -7,6 +7,4 @@ Description: This Finance calculator is a simple program written in Python that 
 
 Contents: Contains 4 Python functions, while a loop, all working dependent on the user input
 
-Installation requirements: Python needed
-
 Usage: The project was created during studying in a boot camp, however, may be used as a template for more advanced finance calculators
